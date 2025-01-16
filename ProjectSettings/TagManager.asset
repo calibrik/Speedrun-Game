@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gun
+  - Pickup
+  - Bullet
+  - Explosive
+  - Enemy
+  - VFX
+  - Block
+  - Glass
+  - Limb
+  - IFramesBody
+  - Shield
+  - Gore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Gun
+  - Pickup
+  - IFramesBody
+  - Explosive
+  - Enemy
+  - Dynamic
+  - Glass
+  - NoHitEnemy
+  - Shield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tiles
+    uniqueID: 4041462367
+    locked: 0
+  - name: Actors
+    uniqueID: 2290801927
+    locked: 0
+  - name: Player
+    uniqueID: 1005685951
+    locked: 0
+  - name: Vfx
+    uniqueID: 1885579743
+    locked: 0

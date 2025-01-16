@@ -1,0 +1,4 @@
+repository "Speedrun game@CALIBRIK@cloud"
+  path "/"
+    br "/main"
+    co "/main"
